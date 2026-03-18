@@ -1,6 +1,6 @@
-## 📚 Repositório de Estudos Front-end
+## 📚 Repositório de Estudos
 
-Este repositório foi criado para armazenar exercícios, práticas e pequenos projetos desenvolvidos durante meus estudos de desenvolvimento front-end.
+Este repositório foi criado para armazenar exercícios, práticas desenvolvidos durante meus estudos de desenvolvimento.
 
 ## 🎯 Objetivo
 
